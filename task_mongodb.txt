@@ -1,0 +1,15 @@
+1- using insertOne to add 2 documents
+
+2- using insertMany to add 10 documents five of them have age 27 and the other 5 have random age
+
+3- using find to get matches age: 27 using limit(3)
+
+
+4- update for first 4 documents using $set & $inc:4 edit name and age 
+
+5- updateMay $inc: 10 on age for all
+
+6- deleteMany for all age:41
+
+
+
